@@ -111,12 +111,12 @@ Sou um Desenvolvedor FullStack com 4 anos de experiência, especializado na cria
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: flex">
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 5px;" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Rener-cardoso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   
@@ -126,4 +126,4 @@ Sou um Desenvolvedor FullStack com 4 anos de experiência, especializado na cria
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rener-cardoso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</div>
