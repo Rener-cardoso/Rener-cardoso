@@ -116,7 +116,7 @@ Sou um Desenvolvedor FullStack com 4 anos de experiência, especializado na cria
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=Rener-cardoso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   
