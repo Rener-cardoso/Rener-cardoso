@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou um Desenvolvedor FullStack com 4 anos de experiência, especializado na criação de soluções tecnológicas robustas e escaláveis, utilizando uma ampla variedade de tecnologias modernas. Estou sempre em busca de novos desafios para aplicar minha expertise e contribuir para projetos inovadores, ajudando empresas a crescer com soluções tecnológicas impactantes, atuei na criação de plataformas para grandes empresas do ramo de energia solar e agronegócio, sempre criando arquiteturas focadas na escalabilidade e código desacoplado.
+Desenvolvedor FullStack com +4 anos de experiência, especializado na criação de soluções tecnológicas robustas e escaláveis, utilizando uma ampla variedade de tecnologias modernas. Estou sempre em busca de novos desafios para aplicar minha expertise e contribuir para projetos inovadores, ajudando empresas a crescer com soluções tecnológicas impactantes, atuei na criação de plataformas para grandes empresas do ramo de energia solar e agronegócio, sempre criando arquiteturas focadas na escalabilidade e código desacoplado.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rener-oliveira-cardoso/">
